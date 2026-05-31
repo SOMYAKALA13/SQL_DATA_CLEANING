@@ -1,1 +1,1 @@
-SQL DATA CLEANING SUCH AS REMOVING NULLS , DUPLICATES , TRIMMING DATA AND STANDARDIZING DATA
+End-to-end SQL data cleaning on real-world tech layoffs dataset — duplicates, nulls, standardization, date formatting
